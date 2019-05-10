@@ -27,5 +27,11 @@
 ![Image](https://github.com/WangBingquan96/robo-advisor-system/blob/master/pircture%207.png)</br>
 ![Image](https://github.com/WangBingquan96/robo-advisor-system/blob/master/pircture%208.png)</br>
 
+## 特别说明
+1. 本系统由pycharm利用python开发，主要使用了pyqt5、numpy、pandas等扩展包，其中pyqt5是专门用来进行UI设计的扩展包 </br>
+2. 上述文件缺少数据库以及策略回测结果文件（应当保存在nav_and_result和signal文件夹下），无法运行 </br>
+3. 上述文件主要展示了多因子策略、CTA策略以及风格轮动策略的代码、构建平台的代码以及下载数据的代码，可以用作参考 </br>
+4. 上述程序仅用于本地使用，还没有搭建服务器进行线上使用 </br>
+5. 本程序是北京大学汇丰商学院软件工程课程的课程作业，不为商用 </br>
 
 
