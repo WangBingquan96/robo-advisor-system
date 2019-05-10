@@ -12,20 +12,20 @@
 ## 系统介绍
 本系统的目的是给没有量化投资经验的投资者提供量化投资的建议。用户可以注册使用我们的系统，系统会根据用户的风险偏好、投资金额、投资年限等因素推荐适合用户的投资策略，用户如果选择使用该策略，那么该策略会每天在前一天交易数据的基础上更新交易信号，如果有新的交易信号产生就会在交易中心中输出给用户，用户可以根据该交易信号自行交易。 </br>
 当用户打开系统时会看到如下界面，其中有我们的系统介绍，所使用的交易策略介绍以及团队介绍，同时还有注册和登录按钮</br>
-picture 1 </br>
+![Image](https://github.com/WangBingquan96/robo-advisor-system/blob/master/pircture%201.png)  </br>
 新用户开始注册一个账号时会看到如下界面</br>
-picture 2 </br>
+![Image](https://github.com/WangBingquan96/robo-advisor-system/blob/master/pircture%202.png)</br>
 账号注册完之后会直接进入风险评估界面，用户可以填写问卷来评估自己的风险偏好</br>
-picture 3 </br>
+![Image](https://github.com/WangBingquan96/robo-advisor-system/blob/master/pircture%203.png)</br>
 然后是个人中心界面，其中个人中心会显示用户的部分信息，并且用户可以修改密码和重新评估风险值</br>
-picture 4 </br>
+![Image](https://github.com/WangBingquan96/robo-advisor-system/blob/master/pircture%204.png)</br>
 在策略选择界面，用户可以输入投资金额，回测时间等参数，然后系统会根据用户的风险偏好给用户推荐两个最好的量化策略，并且输出策略的回测结果和匹配度，用户可以选择使用或者不使用这些策略</br>
-picture 5 </br>
+![Image](https://github.com/WangBingquan96/robo-advisor-system/blob/master/pircture%205.png)</br>
 如果用户使用了这个策略，那么在消息中心界面刷新之后就可以看大这个策略开始被使用</br>
-picture 6 </br>
-点开该策略还可以看到具体的交易信息（如果使用当天恰好有交易信号的话），通常没有交易信号，所以第二张图展示了 一个历史账号的记录（从2018年开始使用）</br>
-picture 7 </br>
-picture 8 </br>
+![Image](https://github.com/WangBingquan96/robo-advisor-system/blob/master/pircture%206.png)</br>
+点开该策略还可以看到具体的交易信息（如果使用当天恰好有交易信号的话），通常没有交易信号，所以这两张图展示了 一个历史账号的记录（从2018年开始使用）</br>
+![Image](https://github.com/WangBingquan96/robo-advisor-system/blob/master/pircture%207.png)</br>
+![Image](https://github.com/WangBingquan96/robo-advisor-system/blob/master/pircture%208.png)</br>
 
 
 
