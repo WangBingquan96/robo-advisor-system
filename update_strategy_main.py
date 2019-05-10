@@ -4,7 +4,7 @@
 
 import style_rotation
 import multi_factor_test
-import cta
+import CTA
 
 
 #更新策略的结果
@@ -16,7 +16,7 @@ def main():
     multi_factor_test.multi_factor()
     
     # 期货策略
-    cta.cta()
+    CTA.cta()
 
 
 if __name__ == "__main__":
